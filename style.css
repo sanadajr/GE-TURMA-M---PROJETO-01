@@ -3,3 +3,9 @@ background-color: #000000;
 color: white;
 
 }
+
+section {
+background: rgb(145, 209, 225) ;
+padding-top: 80px;
+padding-bottom: 80px;
+}
