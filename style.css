@@ -11,7 +11,12 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
-
+h1 {
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+}
 .chamada {
 background: rgb(145, 209, 225) ;
 padding-top: 80px;
