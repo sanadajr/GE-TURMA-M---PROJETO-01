@@ -6,6 +6,11 @@ color: white;
 font-family: "Anton", sans-serif;
 
 }
+header {
+    color: azure;
+    fonte-size: 30px;
+    text-transform: uppercase;
+}
 
 body {
     font-family: "Roboto", sans-serif;
